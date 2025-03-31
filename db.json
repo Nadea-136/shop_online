@@ -1,0 +1,67 @@
+{
+	"users": [
+		{
+			"id":1,
+			"name":"Nadejda",
+			"sirname":"Grubneac",
+			"photo_url":"https://cdn-icons-png.flaticon.com/512/6185/6185659.png",
+			"balance":1500
+		},
+		{
+			"id":2,
+			"name":"Dan",
+			"sirname":"Tcaci",
+			"photo_url":"https://gimgs2.nohat.cc/thumb/f/640/person-icons-person-icon--m2i8m2A0K9H7N4m2.jpg",
+			"balance":2000
+		},
+		{
+			"id":3,
+			"name":"Ion",
+			"sirname":"Balagura",
+			"photo_url":"https://cdn-icons-png.flaticon.com/512/4042/4042356.png",
+			"balance":1000
+		},	
+	],
+	"products":[
+		{
+			"id":1,
+			"name":"Chisinau de seara",
+			"description":"ciocolata cu prune",
+			"price":250,
+			"author_id":1,
+			"photo_url":"https://www.bucuria.eu/data/shop/products/10/chiinul-de-sear-9-150064.png"
+		},
+		{
+			"id":2,
+			"name":"Victoorita",
+			"description":"ciocolata",
+			"price":150,
+			"author_id":1,
+			"photo_url":"https://gomagcdn.ro/domains/bucuria.ro/files/product/original/bomboane-bucuria-victorita-1-250-gr-911985.jpg"
+		},
+		{
+			"id":3,
+			"name":"Visina in ciocolata",
+			"description":"ciocolata cu visina",
+			"price":230,
+			"author_id":1,
+			"photo_url":"https://gomagcdn.ro/domains/bucuria.ro/files/product/medium/bomboane-bucuria-visina-in-ciocolata-1-250-gr-053935.jpg"
+		},
+		{
+			"id":4,
+			"name":"Meteorit",
+			"description":"ciocolata",
+			"price":280,
+			"author_id":1,
+			"photo_url":"https://gomagcdn.ro/domains/bucuria.ro/files/product/original/bomboane-bucuria-meteorit-1-250-gr-927979.jpg"
+		},
+		{
+			"id":5,
+			"name":"Do-re-mi",
+			"description":"ciocolata",
+			"price":320,
+			"author_id":1,
+			"photo_url":"https://img1.zakaz.md/upload.version_1.0.5e2af2bdbe95b55eb726caef42778b9d.350x350.jpeg"
+		},
+	]
+}
