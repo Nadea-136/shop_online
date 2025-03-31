@@ -20,7 +20,7 @@
 			"sirname":"Balagura",
 			"photo_url":"https://cdn-icons-png.flaticon.com/512/4042/4042356.png",
 			"balance":1000
-		},	
+		}	
 	],
 	"products":[
 		{
@@ -62,6 +62,6 @@
 			"price":320,
 			"author_id":1,
 			"photo_url":"https://img1.zakaz.md/upload.version_1.0.5e2af2bdbe95b55eb726caef42778b9d.350x350.jpeg"
-		},
+		}
 	]
 }
